@@ -4,4 +4,4 @@
 * Add items to list
 * Delete items
 
-*Project reference [link to project reference](https://youtu.be/Ttf3CEsEwMQ)*
+*Project reference [Dev Ed](https://youtu.be/Ttf3CEsEwMQ)*
